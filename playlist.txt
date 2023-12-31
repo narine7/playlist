@@ -9,5 +9,10 @@ Enforce best practices with required code reviewers
 
 Use feature branches for all new features and bug fixes.
 Merge feature branches into the main branch using pull requests.
-Keep a high quality, up-to-date main branch.
+Keep Putty
+AWS CLI for Linux
+AWS CLI for Windows
+AWS CLI for Windows CMD
+AWS SDK
+Eclipsea high quality, up-to-date main branch.
  
