@@ -6,3 +6,7 @@ Limit who can contribute to specific branches
 Enforce who can create branches and the naming guidelines for the branches
 Automatically include the right reviewers for every code change
 Enforce best practices with required code reviewers
+
+Use feature branches for all new features and bug fixes.
+Merge feature branches into the main branch using pull requests.
+Keep a high quality, up-to-date main branch.
