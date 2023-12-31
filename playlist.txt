@@ -16,3 +16,9 @@ AWS CLI for Windows CMD
 AWS SDK
 Eclipsea high quality, up-to-date main branch.
  
+ AWS Shield
+AWS WAF
+Amazon Route53
+Amazon CloudFront
+ELB
+VPC
